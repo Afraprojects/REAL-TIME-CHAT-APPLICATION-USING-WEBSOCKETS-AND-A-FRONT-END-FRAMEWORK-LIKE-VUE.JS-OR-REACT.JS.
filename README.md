@@ -28,4 +28,6 @@ This project showcases my ability to design, develop, and deploy scalable web ap
 
 By working on this chat application, I have not only improved my technical proficiency but also developed a deep understanding of how modern web technologies integrate to create seamless, high-performance applications. This experience has been instrumental in shaping my approach to web development, real-time communication, and scalable software design.
 
+output:
 
+![Image](https://github.com/user-attachments/assets/540cdf58-f75e-428b-8a2f-ba1aaac6a7fd)
